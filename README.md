@@ -60,7 +60,7 @@ I'm a software engineering graduate from ISTIC – University of Carthage, trans
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/zrelli-abdallah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/zrelli-abdallah](https://www.linkedin.com/in/zrelli-abdallah/?skipRedirect=true))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zrelli.abdullah15@email.com)
 
 ---
